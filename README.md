@@ -1,4 +1,4 @@
-## 📟 GitHub Non-Followers Checker
+# 📟 GitHub Non-Followers Checker
 
 A simple, client-side tool that helps you identify which GitHub users you follow that don't follow you back. (I know, sometimes you would want to unfollow those who don't follow you back 😏)
 
@@ -169,4 +169,4 @@ Feel free to open issues or pull requests to improve the tool.
 
 ### 📄 License
 
-MIT License. See `LICENSE` file.
+GNU 3.0 License. See `LICENSE` file.
