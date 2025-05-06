@@ -135,7 +135,7 @@ init();
 3. When prompted, enter your **GitHub username**.
 4. Click **Check Non-Followers** in the interface that appears.
 5. View the list of users who don’t follow you back.
-6. Clicking on a user's name brings you directly to their profile. Then, you can unfollow them!
+6. Clicking on a user's name brings you directly to their profile. Then, you can unfollow them! (I mean if you want to)
 
 ___
 
