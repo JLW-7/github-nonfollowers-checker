@@ -12,7 +12,7 @@ A simple, client-side tool that helps you identify which GitHub users you follow
    * Mac: `Cmd + Option + I`
 
 2. Paste the full JavaScript code below and hit **Enter**. (Or you can click [here](checker.js) for the code):
-```
+``` javascript
 "use strict";
 
 const GITHUB_API_URL = "https://api.github.com/users/";
