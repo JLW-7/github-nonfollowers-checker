@@ -1,6 +1,6 @@
 # 📟 GitHub Non-Followers Checker
 
-A simple, client-side tool that helps you identify which GitHub users you follow that don't follow you back. (I know, sometimes you would want to unfollow those who don't follow you back 😏)
+A simple, client-side tool that helps you identify which GitHub users you follow that don't follow you back. 
 
 ---
 
